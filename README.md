@@ -29,3 +29,6 @@ Alternatively you can install the package as a python module and use it from any
     - E.g. you are given the word `about` and you give back the hints `grrry`
     - Alternatively if you choose in input your own word, you can do so by adding a comma after the hints followed by the chosen words
 - Repeat the steps until the correct word is found
+
+## Sample Run
+![alt text](screenshots/image.png)
